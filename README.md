@@ -1,4 +1,4 @@
-Robot prototype
+![1743521838430](https://github.com/user-attachments/assets/51366c89-9410-4cb3-85a3-76edee9ad24b)
 
 The AI-Powered Home Companion Robot prototype I've created is called Vox.
 
