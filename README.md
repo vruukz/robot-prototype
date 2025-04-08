@@ -1,4 +1,5 @@
 ![1743521838430](https://github.com/user-attachments/assets/51366c89-9410-4cb3-85a3-76edee9ad24b)
+![3dmodelrobot](https://github.com/user-attachments/assets/097725c4-4978-41e4-b261-461f29a06c57)
 
 Vox – AI-Powered Home Companion Robot (Prototype)
 
